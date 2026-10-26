@@ -1,6 +1,6 @@
 # Azeroth Survivors — Deathknight
 
-**Deathknight 1.0.1 · For Azeroth Survivors 0.116.0 and 0.117.0 · Public test release**
+**Deathknight · For Azeroth Survivors 0.118.0**
 
 Bring the Death Knight to Azeroth Survivors with Blood, Frost, and Unholy talent trees, disease-based combat, undead companions, and a full armor progression inspired by Wrath of the Lich King.
 
@@ -38,21 +38,13 @@ Install beside the game executable, rather than inside the `AddOns` folder. No i
 - **All eight supported races:** choose the race and appearance you want.
 - **Class presentation:** Death Knight spell icons, armor icons, and spell effects.
 
-## Latest changes
-
-- Added support for Azeroth Survivors **0.117.0**, while retaining **0.116.0** support in the same download.
-- Updated the class, equipment, and abilities to work with the new game version.
-- Corrected the additional talent lookup table introduced in 0.117.0.
-- Retained the latest balance changes: **50% more base damage** for other Death Knight attacks, diseases, pets, and weapon swings; **75% less base damage** for Howling Blast and its Rime proc compared with the previous balance.
-- Kept healing amounts, defensive abilities, and cooldown values unchanged by that balance adjustment.
-
 ## Version naming
 
 The filename lists the game version first and the mod version second:
 
 **AzerothSurvivors 0.117.0 - Deathknight 1.0.1.zip**
 
-This release also supports game version **0.116.0**. Later game updates may require a new mod release; compatibility with every future version is not guaranteed.
+Later game updates may require a new mod release; compatibility with every future version is not guaranteed.
 
 ## Validation and known limits
 
